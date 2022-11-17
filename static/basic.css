@@ -18,7 +18,11 @@ body {
   background-repeat: no-repeat;
   border-top: solid 1em #c02026;
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .masthead-intro {
     /* Layout Declarations */
     margin-bottom: 0.1em;
